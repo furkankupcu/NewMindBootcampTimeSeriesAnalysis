@@ -11,9 +11,10 @@ En çok oranda aykırı veri Ev Aletleri kategorisinde bulunmaktadır.
 Kategorilere göre ürünlerin fiyat dağılımı: 
 ![image](https://github.com/user-attachments/assets/01e1a081-e2ea-4118-8226-513b8bdb1f37)
 
-![Hangi çeyrekte toplam kaç adet ürün satılmıştır?](https://github.com/user-attachments/assets/4839dfa3-89c9-4c88-b2b9-44e95076e587)
+# Hangi çeyrekte toplam kaç adet ürün satılmıştır?
+![İmage?](https://github.com/user-attachments/assets/4839dfa3-89c9-4c88-b2b9-44e95076e587)
 
-En çok Pazartesi, en az Cuma günü satış yapılmıştır.
+# En çok Pazartesi, en az Cuma günü satış yapılmıştır.
 ![image](https://github.com/user-attachments/assets/ce992137-6d46-48d5-9e18-da57f051bd3f)
 
 Yaş grupları en çok hangi ürünü satın almıştır?
