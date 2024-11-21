@@ -1,9 +1,7 @@
 # NewMindBootcampTimeSeriesAnalysis
 
-# Veri seti Satış ve Müşteri verileri üzerinden oluşturulmuştur.
-![image](https://github.com/user-attachments/assets/1232ca6f-cbb8-4d6f-b943-7fcfe83b3343)
+Amaç : Satış ve Müşteri verilerinden oluşan veri seti ile müşterilerin satın alma davranışları incelenmektedir.
 
-![image](https://github.com/user-attachments/assets/0b61d170-1bf1-4135-880a-16feb7db82ed)
 
 # En çok oranda aykırı veri Ev Aletleri kategorisinde bulunmaktadır. 
 ![image](https://github.com/user-attachments/assets/bb2d3c41-4b02-442e-8f3a-88cfd5ee706a)
